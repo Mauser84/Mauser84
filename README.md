@@ -1,3 +1,3 @@
-Hi!
+### Hi!
 
-I'm just started to learn Git!
+### I'm just started to learn Git!
